@@ -1,4 +1,7 @@
 # Introduction
 
 ## This page will give you general introduction 
-The links are made here:
+
+* Course homepage https://bitbucket.org/nir_gallner/workspace/projects/SDET
+* General information page https://bitbucket.org/nir_gallner/general/src/main/Readme.md
+
